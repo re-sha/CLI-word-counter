@@ -40,17 +40,8 @@ Number of words inside this file is 25
 ```
 
 ## Scripts
-- **start**: Runs the application using the command:
+**start**: Runs the application using the command:
   ```bash
   node index.js
   ```
-
-
-## Sample Input
-
-node index.js file-path
-
-## Output 
-
-Number of words inside this file is 25
 
