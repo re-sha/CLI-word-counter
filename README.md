@@ -4,7 +4,7 @@ This is a command line interface that lets a user specify a file path to get the
 
 ## Sample Input
 
-node index.js /Users/abc/dev/cli/a.txt
+node index.js <file-path>
 
 ## Output 
 
