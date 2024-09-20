@@ -7,7 +7,7 @@ program
   .description('CLI to count number of words in file')
   .version('1.0.0');
 
-program
+program.command('count')
   .argument('<file>', 'file to count the number of words in it')
   .action((file) => {
     fs.readFile(file,"utf-8",(err,data) => {
